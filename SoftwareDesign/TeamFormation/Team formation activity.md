@@ -45,3 +45,5 @@ Have students fill out and submit the team priority form.
 ## Post-class
 
 Instructor uses the information on the sheets in conjunction with the form answers to put students into teams. Based on past experience, in case of ties or ambiguity, default to matching students based on time-of-day preference.
+
+_This work is licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)._

@@ -20,3 +20,6 @@ As you read through these articles, consider your own experiences in working in 
 Before class, I'd like you to reflect on some of the factors that are important to  _you_ when working on a project team. Please fill out this (very brief!!) survey by 9am on Monday, January 20. The survey asks you to rank 6 factors in terms of their importance to you.
 
 [Link to form]
+
+
+_This work is licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)._

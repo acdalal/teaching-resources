@@ -145,3 +145,4 @@ _Is there anything else you think is important for me to know before assigning y
 
 </pre>
 
+_This work is licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)._
